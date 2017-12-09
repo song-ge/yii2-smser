@@ -1,5 +1,5 @@
 <?php
-namespace song\smser;
+namespace zys5210\smser;
 use yii\base\Component;
 
 class YunPian extends Component

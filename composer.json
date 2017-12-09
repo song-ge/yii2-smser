@@ -1,5 +1,5 @@
 {
-    "name": "song/yii2-smser",
+    "name": "zys5210/yii2-smser",
     "description": "smser",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","sms"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "song\\smser\\": ""
+            "zys5210\\smser\\": ""
         }
     }
 }
